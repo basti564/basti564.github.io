@@ -1,10 +1,10 @@
 {
     "lang": "en",
-    "name": "Basti564's Website",
-    "short_name": "Basti564's Website",
+    "name": "Basti564's Blog 🌸",
+    "short_name": "Basti564's Blog 🌸",
     "start_url": "/",
     "orientation": "natural",
-    "description": "Basti564's Website",
+    "description": "Basti564's Blog 🌸",
     "icons": [{
         "src": "/assets/images/favicon/android-chrome-192x192.png",
         "sizes": "192x192",
