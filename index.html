@@ -3,16 +3,13 @@ layout: default
 ---
 <section id="intro">
     <div class="flex-row-between">
-        <h1>{{ site.greetings }}</h1>
+        <h1>{{ site.title }}</h1>
         <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
             <div></div>
         </button>
     </div>
     <div class="bio">
-	    {{ site.description }}
-        <p>
-	    <a href="{{ site.url }}{{ site.baseurl }}/about/">> About me</a>
-        </p>
+	    {{ site.description | newline_to_br}}
     </div>
 
 
