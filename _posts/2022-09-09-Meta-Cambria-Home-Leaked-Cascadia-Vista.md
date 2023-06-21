@@ -3,7 +3,6 @@ title: Cascadia Home Environment Leaks for Oculus Quest 2
 layout: post
 description: A review of the leaked Cascadia home environment for the Oculus Quest 2 and Seacliff headset, including patch information and a video tour.
 tags: post oculus quest VR Cascadia home environment Seacliff
-minute: 2
 ---
 
 If you're a fan of the Oculus Quest 2 and have been keeping an eye on the latest news and leaks, you might have heard about the highly anticipated Seacliff headset. One of the most exciting features of the Seacliff is the exclusive home environment called Cascadia.

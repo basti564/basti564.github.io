@@ -3,7 +3,6 @@ title: Quest 2 News and Updates
 layout: post
 description: A round-up of the latest news and updates for the Oculus Quest 2 headset, including SuperRes technology, face and eye tracking, and Earth Day events.
 tags: post oculus quest VR updates
-minute: 2
 ---
 # Intro
 

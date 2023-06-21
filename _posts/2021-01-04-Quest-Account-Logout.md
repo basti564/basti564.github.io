@@ -3,7 +3,6 @@ title: Using the Oculus Quest without an Account
 layout: post
 description: This tutorial will show you how to log out from your Oculus/Facebook account on your Oculus Quest
 tags: post oculus quest oculess sideloading tutorial
-minute: 3
 ---
 
 ## Please read before you continue

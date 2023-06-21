@@ -3,7 +3,6 @@ title: Play Spotify and Discord on Oculus Quest in 2022
 layout: post
 description: This tutorial will show you how to play Spotify songs or talk to your friends on Discord while playing VR games
 tags: post oculus oculus quest quest spotify discord facebook tutorial
-minute: 2
 ---
 
 ## Video Tutorial

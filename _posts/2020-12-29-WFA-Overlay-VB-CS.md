@@ -3,7 +3,6 @@ title: Simple WFA Overlay
 layout: post
 description: Making a simple WFA overlay in vs.net and c#.net (for games)
 tags: post c# vb .NET overlay tutorial
-minute: 6
 ---
 
 ## Introduction
