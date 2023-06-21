@@ -110,6 +110,10 @@ html[data-theme="dark"] {
 	--code-bg-color: rgb(36, 38, 42);
 	background-color: rgb(19, 20, 24);
 
+  body {
+    background-color: rgb(19, 20, 24);
+  }
+
 	#theme-toggle div {
 		position: relative;
 		width: 24px;
