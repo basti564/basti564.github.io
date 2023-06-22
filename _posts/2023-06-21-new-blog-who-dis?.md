@@ -2,7 +2,7 @@
 title: new blog, who dis?
 layout: post
 description: I decided to move my blog and start it again, welcome!
-tags: website, jekyll, gesko, minimal-mistakes, domain, utterances, pwa
+tags: website jekyll gesko minimal-mistakes domain utterances pwa
 ---
 
 Hello everyone! I've got exciting news to share. I recently had to say goodbye to my old domain, bastian.gay, but I embraced this change to bring you something fresh. Welcome to my new blog on [blahaj.life](https://blahaj.life)!
