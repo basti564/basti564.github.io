@@ -2,7 +2,7 @@
 title: Meta Quest Firmware Archive & How it works
 layout: post
 description: A detailed guide on the Meta Quest Firmware Archive and how it works.
-tags: vr, virtual-reality, oculus-quest, meta, firmware, cocaine.trade, website
+tags: vr virtual-reality oculus-quest meta firmware cocaine.trade website
 ---
 
 # Introducing the Quest Firmware Archive
