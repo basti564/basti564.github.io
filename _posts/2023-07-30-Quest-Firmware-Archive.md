@@ -2,10 +2,10 @@
 title: Meta Quest Firmware Archive & How it works
 layout: post
 description: A detailed guide on the Meta Quest Firmware Archive and how it works.
-tags: vr, virtual-reality, oculus-quest
+tags: vr, virtual-reality, oculus-quest, meta, firmware, cocaine.trade, website
 ---
 
-# Introducing the Meta Quest Firmware Archive
+# Introducing the Quest Firmware Archive
 
 I'm happy to announce the launch of a new website, [cocaine.trade](https://cocaine.trade/), which hosts an extensive collection of update .zip files for Meta VR headsets. As of July 30th, the archive includes firmware versions for various Meta VR headsets. Specifically, there are 53 Quest 1 firmware versions ranging from v3 to v50, 86 Quest 2 firmware versions from v21 to v56, and 15 Quest Pro firmware versions from v50 to v56. This archive aims to provide Meta VR headset owners with easy access to firmware updates and historical versions.
 
