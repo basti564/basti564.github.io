@@ -22,7 +22,7 @@ A complete tutorial from me will follow, but until then you can use this [reddit
 
 Now onto something fun: Here is how we obtain the .zip firmware updates in the first place in order to put them on the archive.
 
-Archiving the firmware for Meta VR headsets can be a challenging task due to various factors, including Quests auto updating and the existence of partial updates, which are pretty much useless for analysis. Most .zip files on the web originate in methods like running `adb logcat` to find URLs ending in .zip, or using `adb bugreport` during an update to obtain the URL from the generated bug report zip. 
+Archiving the firmware for Meta VR headsets can be a challenging task due to various factors, including Quests auto updating and the existence of partial updates, which are pretty much useless for analysis. Most .zip files on the web originate in methods like running `adb logcat | grep "initial url:"` to find URLs ending in .zip, or using `adb bugreport` during an update to obtain the URL from the generated bug report zip. 
 
 ### Obtaining a DAT
 
